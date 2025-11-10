@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ljyuan@stu.xmu.edu.cn**
 
-- 📄 Know about my experiences [https://romanrosee.online](https://romanrosee.online)
+- 📄 Know about my experiences [https://romanrose.github.io/](https://romanrose.github.io/)
 
 - ⚡ Fun fact **I think I’m funny — at least my code laughs back.**
 
