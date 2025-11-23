@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romanrose](https://github.com/Romanrose)
 
-- 📝 I regularly write articles on [https://romanrosee.online](https://romanrosee.online)
-
 - 💬 Ask me about **Multimodal emotion recognition, Python, Multimodal Aspect-Based Sentiment Analysis**
 
 - 📫 How to reach me **ljyuan@stu.xmu.edu.cn**
