@@ -1,34 +1,68 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Romanrose</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanrose&label=Profile%20views&color=0e75b6&style=flat" alt="romanrose" /> </p>
+# Hi, I'm Romanrose
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanrose" alt="romanrose" /></a> </p>
+**AI learner and developer focused on context learning, long-context management, and conceptual flow analogy.**
 
-- 🔭 I’m currently studying in [Xiamen university](https://www.xmu.edu.cn/)
+**专注于上下文学习、长程上下文管理与概念流动类比的人工智能学习者与开发者。**
 
-- 🌱 I’m currently learning **PyTorch, Hugging Face, Multimodal Transformers**
+[![Personal Website](https://img.shields.io/badge/Website-romanrose.github.io-2f6f8f?style=flat-square&logo=githubpages&logoColor=white)](https://romanrose.github.io/)
+[![Email](https://img.shields.io/badge/Email-ljyuan%40stu.xmu.edu.cn-a33b20?style=flat-square&logo=gmail&logoColor=white)](mailto:ljyuan@stu.xmu.edu.cn)
+[![Profile Views](https://komarev.com/ghpvc/?username=Romanrose&label=Profile%20views&color=557c55&style=flat-square)](https://github.com/Romanrose)
 
-- 👯 I’m looking to collaborate on **情感计算**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Romanrose](https://github.com/Romanrose)
+## About Me · 关于我
 
-- 💬 Ask me about **Multimodal emotion recognition, Python, Multimodal Aspect-Based Sentiment Analysis**
+- Studying at [Xiamen University](https://www.xmu.edu.cn/).
 
-- 📫 How to reach me **ljyuan@stu.xmu.edu.cn**
+  就读于[厦门大学](https://www.xmu.edu.cn/)。
+- Exploring how models learn, maintain, and dynamically manage context over long horizons.
 
-- 📄 Know about my experiences [https://romanrose.github.io/](https://romanrose.github.io/)
+  关注模型如何在长程任务中学习、维护并动态管理上下文。
+- Building research experiments and practical tools with Python and PyTorch.
 
-- ⚡ Fun fact **I think I’m funny — at least my code laughs back.**
+  使用 Python 和 PyTorch 构建研究实验与实用工具。
+- Open to research discussions and collaboration around context-aware AI systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  欢迎围绕上下文感知人工智能系统进行学术交流与合作。
+
+## Research Interests · 研究方向
+
+```text
+Context Learning             ·  上下文学习
+Long-Context Dynamic Management ·  长程上下文动态管理
+Conceptual Flow and Analogy  ·  概念流动类比
+```
+
+## Current Focus · 当前关注
+
+- Context representation, retrieval, compression, and updating.
+
+  上下文表示、检索、压缩与更新。
+- Long-horizon reasoning and dynamic memory mechanisms.
+
+  长程推理与动态记忆机制。
+- Using analogy and conceptual transfer to understand and improve model behavior.
+
+  通过类比与概念迁移理解并改进模型行为。
+
+## Tech Stack · 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,docker,linux,bash,cpp,mysql&perline=9" alt="Python, PyTorch, scikit-learn, Git, Docker, Linux, Bash, C++, and MySQL" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Also working with · 也在使用：** Hugging Face Transformers, pandas, NumPy, and deep learning workflows.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanrose&show_icons=true&locale=en&layout=compact" alt="romanrose" /></p>
+## GitHub Activity · GitHub 动态
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanrose&show_icons=true&locale=en" alt="romanrose" /></p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romanrose&theme=github" alt="Romanrose's GitHub activity summary" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanrose&" alt="romanrose" /></p>
+## Contact · 联系方式
+
+- Email · 邮箱: [ljyuan@stu.xmu.edu.cn](mailto:ljyuan@stu.xmu.edu.cn)
+- Website · 个人网站: [romanrose.github.io](https://romanrose.github.io/)
+- GitHub · GitHub: [@Romanrose](https://github.com/Romanrose)
