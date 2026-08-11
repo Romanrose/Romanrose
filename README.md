@@ -19,5 +19,5 @@ I enjoy reading technical papers, turning difficult ideas into clear notes, buil
 Currently, I am building [LLM.learn](https://github.com/Romanrose/llm_learn) as a learning and experimentation space for LLM systems, while developing [PRISM](https://github.com/Romanrose/romanrose.github.io) as my personal research and technical portfolio.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Romanrose/Romanrose/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/Romanrose/Romanrose/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>
