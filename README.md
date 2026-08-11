@@ -1,68 +1,86 @@
 <div align="center">
-
-# Hi, I'm Romanrose
-
-**AI learner and developer focused on context learning, long-context management, and conceptual flow analogy.**
-
-**专注于上下文学习、长程上下文管理与概念流动类比的人工智能学习者与开发者。**
-
-[![Personal Website](https://img.shields.io/badge/Website-romanrose.github.io-2f6f8f?style=flat-square&logo=githubpages&logoColor=white)](https://romanrose.github.io/)
-[![Email](https://img.shields.io/badge/Email-ljyuan%40stu.xmu.edu.cn-a33b20?style=flat-square&logo=gmail&logoColor=white)](mailto:ljyuan@stu.xmu.edu.cn)
-[![Profile Views](https://komarev.com/ghpvc/?username=Romanrose&label=Profile%20views&color=557c55&style=flat-square)](https://github.com/Romanrose)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=24&pause=1200&color=2F6F8F&background=FFFFFF00&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Romanrose.;AI+%2F+LLM+Systems+Engineer" alt="Hi, I'm Romanrose. AI / LLM Systems Engineer" />
 </div>
 
-## About Me · 关于我
-
-- Studying at [Xiamen University](https://www.xmu.edu.cn/).
-
-  就读于[厦门大学](https://www.xmu.edu.cn/)。
-- Exploring how models learn, maintain, and dynamically manage context over long horizons.
-
-  关注模型如何在长程任务中学习、维护并动态管理上下文。
-- Building research experiments and practical tools with Python and PyTorch.
-
-  使用 Python 和 PyTorch 构建研究实验与实用工具。
-- Open to research discussions and collaboration around context-aware AI systems.
-
-  欢迎围绕上下文感知人工智能系统进行学术交流与合作。
-
-## Research Interests · 研究方向
-
-```text
-Context Learning             ·  上下文学习
-Long-Context Dynamic Management ·  长程上下文动态管理
-Conceptual Flow and Analogy  ·  概念流动类比
-```
-
-## Current Focus · 当前关注
-
-- Context representation, retrieval, compression, and updating.
-
-  上下文表示、检索、压缩与更新。
-- Long-horizon reasoning and dynamic memory mechanisms.
-
-  长程推理与动态记忆机制。
-- Using analogy and conceptual transfer to understand and improve model behavior.
-
-  通过类比与概念迁移理解并改进模型行为。
-
-## Tech Stack · 技术栈
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,docker,linux,bash,cpp,mysql&perline=9" alt="Python, PyTorch, scikit-learn, Git, Docker, Linux, Bash, C++, and MySQL" />
+<p align="center">
+  <strong>Building context-aware AI systems, agent memory, and learning infrastructure.</strong>
 </p>
 
-**Also working with · 也在使用：** Hugging Face Transformers, pandas, NumPy, and deep learning workflows.
+<p align="center">
+  <code>Context-aware AI</code>
+  <code>Agent Memory</code>
+  <code>LLM Evaluation</code>
+  <code>Research Engineering</code>
+</p>
 
-## GitHub Activity · GitHub 动态
+<p align="center">
+  <a href="https://romanrose.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-romanrose.io-2F6F8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+  </a>
+  <a href="mailto:ljyuan@stu.xmu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-Contact-A33B20?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Romanrose">
+    <img src="https://komarev.com/ghpvc/?username=Romanrose&label=PROFILE%20VIEWS&color=557C55&style=for-the-badge" alt="Profile views" />
+  </a>
+</p>
+
+## About
+
+I am an MSc Software Engineering candidate at [Xiamen University](https://www.xmu.edu.cn/), working toward AI / LLM systems engineering and research.
+
+My current work focuses on how AI systems represent, retrieve, update, and evaluate context over long-horizon tasks. I build research prototypes and practical tools with Python, PyTorch, retrieval systems, and modern developer infrastructure.
+
+## Research & Engineering Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Context-aware AI</strong><br />
+      Context representation, retrieval, compression, and updating for long-running tasks.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Agent Memory</strong><br />
+      Memory mechanisms and context engineering for reliable multi-step agents.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Evaluation</strong><br />
+      Turning LLM and agent evaluation into reproducible engineering evidence.
+    </td>
+  </tr>
+</table>
+
+## Featured Work
+
+| Project | Focus | Public signals |
+| --- | --- | --- |
+| [Concept2Fable](https://github.com/Romanrose/AAAI-Fable) | Analogy-driven story generation and conceptual transfer for AI systems. | [![Stars](https://img.shields.io/github/stars/Romanrose/AAAI-Fable?style=flat-square&label=stars)](https://github.com/Romanrose/AAAI-Fable) |
+| [LLM.learn](https://github.com/Romanrose/llm_learn) | Experiments and notes on LLMs, agent memory, context engineering, and learning infrastructure. | [![Stars](https://img.shields.io/github/stars/Romanrose/llm_learn?style=flat-square&label=stars)](https://github.com/Romanrose/llm_learn) |
+| [PRISM Portfolio](https://github.com/Romanrose/romanrose.github.io) | Next.js + Tailwind personal homepage, technical writing system, and research portfolio. | [![Stars](https://img.shields.io/github/stars/Romanrose/romanrose.github.io?style=flat-square&label=stars)](https://github.com/Romanrose/romanrose.github.io) |
+| [30-paper-zhCN](https://github.com/Romanrose/30-paper-zhCN) | Chinese reading notes and reproducible study assets for foundational AI papers. | [![Stars](https://img.shields.io/github/stars/Romanrose/30-paper-zhCN?style=flat-square&label=stars)](https://github.com/Romanrose/30-paper-zhCN) |
+
+## Knowledge Assets
+
+- [Awesome-Papers](https://github.com/Romanrose/Awesome-Papers) — curated papers and reading directions
+- [paper-reading](https://github.com/Romanrose/paper-reading) — deep reading notes and reproductions
+- [minimind-notes](https://github.com/Romanrose/minimind-notes) — principle-first notes on building LLMs from scratch
+- [Technical writing](https://romanrose.io/writing/) — project notes, system explanations, and learning records
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,nextjs,git,docker,linux,bash&perline=8" alt="Python, PyTorch, TypeScript, Next.js, Git, Docker, Linux, and Bash" />
+</p>
+
+<details>
+  <summary>中文简介</summary>
+
+  我是厦门大学软件工程硕士研究生，关注上下文感知 AI 系统、Agent Memory、长程任务管理和 LLM 评估。当前主要使用 Python、PyTorch、检索系统与现代开发基础设施，构建研究原型和可复用的工程工具。
+
+  个人网站：[romanrose.io](https://romanrose.io/)
+
+</details>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romanrose&theme=github" alt="Romanrose's GitHub activity summary" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Romanrose&show_icons=true&hide_title=true&hide_border=true&theme=default&title_color=2F6F8F&icon_color=2F6F8F&include_all_commits=true" alt="Romanrose's GitHub statistics" />
 </div>
-
-## Contact · 联系方式
-
-- Email · 邮箱: [ljyuan@stu.xmu.edu.cn](mailto:ljyuan@stu.xmu.edu.cn)
-- Website · 个人网站: [romanrose.github.io](https://romanrose.github.io/)
-- GitHub · GitHub: [@Romanrose](https://github.com/Romanrose)
