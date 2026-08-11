@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://romanrose.io/">Personal Website</a>
+  <a href="https://romanrose.github.io/">Personal Website</a>
   ·
   <a href="mailto:ljyuan@stu.xmu.edu.cn">Email</a>
   ·
